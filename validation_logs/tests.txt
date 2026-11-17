@@ -1,0 +1,11 @@
+00:00 +0: loading /workspace/scratch/4fa3c2762641/flutter_animations_playground/test/demos_test.dart
+00:00 +0: /workspace/scratch/4fa3c2762641/flutter_animations_playground/test/demos_test.dart: implicit target properties and keyed content change
+00:00 +1: /workspace/scratch/4fa3c2762641/flutter_animations_playground/test/demos_test.dart: implicit target properties and keyed content change
+00:01 +2: /workspace/scratch/4fa3c2762641/flutter_animations_playground/test/playground_test.dart: seven real implicit examples render at mobile width
+00:01 +3: /workspace/scratch/4fa3c2762641/flutter_animations_playground/test/demos_test.dart: explicit building blocks and combined demo play and reset
+00:01 +4: /workspace/scratch/4fa3c2762641/flutter_animations_playground/test/playground_test.dart: global mode survives tabs and Hero uses real routes
+00:02 +5: /workspace/scratch/4fa3c2762641/flutter_animations_playground/test/playground_test.dart: global mode survives tabs and Hero uses real routes
+00:02 +6: /workspace/scratch/4fa3c2762641/flutter_animations_playground/test/playground_test.dart: explicit controller controls restart and dispose safely
+00:03 +7: /workspace/scratch/4fa3c2762641/flutter_animations_playground/test/playground_test.dart: reduced motion and narrow landscape avoid overflow
+00:04 +8: /workspace/scratch/4fa3c2762641/flutter_animations_playground/test/playground_test.dart: all global transitions retain selection and duration
+00:05 +9: All tests passed!

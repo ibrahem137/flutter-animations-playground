@@ -1,0 +1,25 @@
+Resolving dependencies...
+Downloading packages...
+  flutter_lints 5.0.0 (6.0.0 available)
+  lints 5.1.1 (6.1.0 available)
+  material_color_utilities 0.13.0 (0.13.1 available)
+  test_api 0.7.14 (0.7.15 available)
+  vector_math 2.4.3 (2.4.4 available)
+Got dependencies!
+5 packages have newer versions incompatible with dependency constraints.
+Try `flutter pub outdated` for more information.
+Launching lib/main.dart on Web Server in release mode...
+The --pwa-strategy option is deprecated and will be removed in a future Flutter release.
+For more information, see: https://github.com/flutter/flutter/issues/156910
+Compiling lib/main.dart for the Web...                             35.7s
+✓ Built build/web
+lib/main.dart is being served at http://0.0.0.0:8766
+The web-server device requires the Dart Debug Chrome extension for debugging. Consider using the Chrome or Edge devices for an improved development workflow.
+
+Flutter run key commands.
+r Hot reload. 🔥🔥🔥
+h List all available interactive commands.
+d Detach (terminate "flutter run" but leave application running).
+c Clear the screen
+q Quit (terminate the application on the device).
+
